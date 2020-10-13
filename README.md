@@ -1,6 +1,6 @@
 Hello, I'm Exifers
 
-A software enginner previously passionated with Math and Physics.
+A software engineer previously passionated with Math and Physics.
 
 My main fields of knowledge are :
 

@@ -5,10 +5,10 @@ A software engineer previously passionated with Math and Physics.
 My main fields of knowledge are :
 
 - React
-- Django
+- Python
 - Node
 - Webdesign
 
 [![Exifers's github stats](https://github-readme-stats.vercel.app/api?username=Exifers)](https://github.com/anuraghazra/github-readme-stats)
 
-Twitter: [/Xofocle](https://twitter.com/Xofocle)
+[twitter](https://twitter.com/Xofocle)

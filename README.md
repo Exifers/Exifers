@@ -1,5 +1,6 @@
 Hello, I'm Exifers
 
-A software engineer previously passionated with Math and Physics.
-
-Working on [compoze.org](https://compoze.org?utm_source=github), a source code generator.
+About me:
+- previously passionate about Math and Physics
+- passionate about Web Design
+- working on [compoze.org](https://compoze.org?utm_source=github), a source code generator.

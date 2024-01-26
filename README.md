@@ -1,5 +1,5 @@
 Hello, I'm Exifers
 
-About me:
-- passionate about Web Design
-- working on [compoze.org](https://compoze.org?utm_source=github), a source code generator.
+Passionate about Web Design
+
+Working on [compoze.org](https://compoze.org?utm_source=github), a source code generator
